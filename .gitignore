@@ -1,0 +1,6 @@
+# Compiled programs and build folders
+*.exe
+*.o
+bin/
+obj/
+*.layout
